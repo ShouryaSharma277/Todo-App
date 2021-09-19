@@ -1,0 +1,26 @@
+body {
+    background-color: #3B3535;
+}
+
+.wrapper {
+    background-color: #494949;
+    display: flex;
+    width: 300px;
+    height: 947px;
+    align-items: stretch;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.myLink {
+    border: 1px solid rgb(63, 55, 55);
+    width: 300px;
+}
+
+.myLink:hover {
+    background-color: #333333
+}
