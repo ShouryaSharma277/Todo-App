@@ -1,0 +1,50 @@
+body {
+  background: #3B3535
+}
+
+.todo {
+  width: 1300px;
+  padding-bottom: 10px;
+  list-style: none;
+  background: linear-gradient(
+    90deg,
+    rgb(50, 41, 184) 0%,
+    rgb(44, 42, 42) 50%
+  );
+  font-size: 1.3em;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  text-align: left;
+}
+
+.title {
+  width: 1500px;
+  text-align: center;
+}
+
+.ah:hover {
+  cursor: pointer;
+}
+
+.form {
+  text-align: center;
+}
+
+.input {
+  margin-left: 465px;
+  display: block;
+  margin-bottom: 1.5em;
+}
+
+.bruh {
+  margin-right: 100px;
+}
+
+.container1 {
+  text-align: center;
+}
+
+.complete {
+  margin-left: 10px;
+  margin-right: 0.5em;
+}
