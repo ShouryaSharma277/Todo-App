@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { Music } from "./Music";
 import { Todo } from "./home/Todo";
-import { AddTodos } from "./home/AddTodos";
 
 export const Sidebar = () => {
   return (
@@ -21,11 +20,6 @@ export const Sidebar = () => {
                 <li>
                   <Link className="px-3 py-2 myLink" to="/music">
                     Music
-                  </Link>
-                </li>
-                <li>
-                  <Link className="px-3 py-2 myLink" to="/minigames">
-                    Minigames
                   </Link>
                 </li>
               </ul>
