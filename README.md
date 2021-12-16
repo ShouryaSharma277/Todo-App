@@ -6,5 +6,9 @@ This is a todo app, in which you can create, delete, or complete a todo
 
 2. Typescript`https://www.typescriptlang.org/`
 
-3. Sass`https://sass-lang.com/`
 
+# Usage with docker
+1. Run the following commands
+`docker build -t todo_app .`
+
+`docker run todo_app`
