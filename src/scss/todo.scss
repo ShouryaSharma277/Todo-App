@@ -1,16 +1,12 @@
 body {
-  background: #3B3535
+  background: #1e293b
 }
 
 .todo {
   width: 1300px;
   padding-bottom: 10px;
   list-style: none;
-  background: linear-gradient(
-    90deg,
-    rgb(50, 41, 184) 0%,
-    rgb(44, 42, 42) 50%
-  );
+  background-color: #0369a1;
   font-size: 1.3em;
   border: 1px solid rgb(255, 255, 255);
   border-radius: 5px;
