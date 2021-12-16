@@ -1,5 +1,5 @@
 import Iframe from "react-iframe";
-import "../scss/music.scss";
+import "../css/music.css";
 
 export const Music = () => {
   return (
